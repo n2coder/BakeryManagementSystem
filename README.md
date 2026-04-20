@@ -20,4 +20,4 @@ This project analyzes bakery sales data to extract business insights such as top
 - Some items are slow-moving
 
 ## 🔗 Live Demo
-[Click Here](your-streamlit-link)
+[Click Here](https://bakerymanagementsystem-e7ejgffdbyr487pb4zhder.streamlit.app/)
